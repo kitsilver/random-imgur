@@ -8,7 +8,8 @@ from random import randint
 
 source = "http://i.imgur.com"			# base site URL
 savePath = "./randomImgur"			# path to save images to
-randomChars = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789"
+randomChars = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789" #charset - this could be better
+# branch
 
 
 # Generate a random, five character filename.
